@@ -4,7 +4,7 @@
 
 - 文件下载器
 - pdf合并工具
-
+- 极客专栏文章下载
 
 ## 文件下载器（downloader.py）
 
@@ -20,6 +20,26 @@
 ## pdf合并工具（pdfmerger.py）
 
 >合并pdf文件
+
+## 极客专栏文章下载（geeksplider.py）
+
+>将你购买的极客专栏，下载为json文件
+
+文件格式为：
+```
+{
+    "article_title": "", 
+    "audio_time": "", 
+    "ctime": 1521993600, 
+    "audio_size": 4375851, 
+    "pid": 76, 
+    "audio_url": "", 
+    "mdhtml": "", 
+    "audio_download_url": "", 
+    "id": 4969, 
+    "article_cover": ""
+},
+``` 
 
 # issue
 
