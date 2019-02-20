@@ -23,7 +23,7 @@
 
 # issue
 
-使用中遇到问题，可以在该项目下提issue (issues入口)[https://github.com/maixiaojie/pythonCollection/issues]
+使用中遇到问题，可以在该项目下提issue [issues入口](https://github.com/maixiaojie/pythonCollection/issues)
 
 
 # PR
