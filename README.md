@@ -5,6 +5,7 @@
 - 文件下载器
 - pdf合并工具
 - 极客专栏文章下载
+- 掘金小册下载
 
 ## 文件下载器（downloader.py）
 
@@ -46,6 +47,27 @@
 ``` 
 
 可以根据自己的需求灵活改动代码进行使用.
+
+## 掘金小册下载（juejinxiaoce.py）
+
+>将你购买的掘金小册，下载为json格式
+
+依赖库：
+
+- requests
+
+文件格式为：
+
+```
+{
+    "article_title": "", 
+    "pid": "", 
+    "mdhtml": "", 
+    "mdtext": "", 
+    "id": "", 
+    "createdAt": ""
+}
+```
 
 # issue
 
